@@ -1,0 +1,11 @@
+********* START PLAIN TEXT FOOTER (NO HEADER) **********
+
+-------------
+We don't accept any money from companies or governments so we can be independent and challenge anyone who threatens the planet or peace. To help us keep fighting climate change, defending our oceans and protecting ancient forests, you can make a regular donation by direct debit at https://www.greenpeace.org.uk/donate/donateA/dd?PromoParam=XE005. Thank you!
+
+If you no longer want to be in the loop with the latest news from these emails, we'll be sad, but you can unsubscribe here.
+https://secure.greenpeace.org.uk/page/unsubscribe?email=%%EMAIL%%
+
+Greenpeace Ltd, Canonbury Villas, London N1 2PN (registered in London no 1314381, VAT registration no 625951426)
+
+This email was sent to: %%EMAIL%%
